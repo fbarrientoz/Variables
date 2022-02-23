@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.29709.97
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Enteros", "Enteros\Enteros.csproj", "{986D2CEE-AB70-4C62-8311-8B58BE31FB73}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculoPerimetro", "CalculoPerimetro\CalculoPerimetro.csproj", "{A112E216-4FFF-42FF-8339-2A611FB6DC02}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{986D2CEE-AB70-4C62-8311-8B58BE31FB73}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{986D2CEE-AB70-4C62-8311-8B58BE31FB73}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{986D2CEE-AB70-4C62-8311-8B58BE31FB73}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A112E216-4FFF-42FF-8339-2A611FB6DC02}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A112E216-4FFF-42FF-8339-2A611FB6DC02}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A112E216-4FFF-42FF-8339-2A611FB6DC02}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A112E216-4FFF-42FF-8339-2A611FB6DC02}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
